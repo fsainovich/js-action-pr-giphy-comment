@@ -1,5 +1,8 @@
-name: 'Giphy PR Comment'
+name: 'Fsainovich Giphy PR Comment'
 description: 'Add a Giphy GIF comment to new pull requests.'
+branding:
+  icon: "anchor"
+  color: "green"  
 inputs:
   github-token:
     description: 'GitHub Token'
